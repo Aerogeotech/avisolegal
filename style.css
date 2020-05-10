@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background: url(http://www.shukatsu-note.com/wp-content/uploads/2014/12/computer-564136_1280.jpg) no-repeat;
+    background: black no-repeat;
     background-size: cover;
     height: 100vh;
 }
@@ -21,6 +21,11 @@ h1 {
     border-radius: 20px/50px;
     background-clip: padding-box;
     text-align: center;
+}
+
+a {
+    color: white;
+    s
 }
 
 .text {
